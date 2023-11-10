@@ -1,0 +1,11 @@
+flask
+requests
+gunicorn
+openai
+numpy
+streamlit
+pypdf2
+langchain
+python-dotenv
+faiss-cpu
+huggingface_hub
